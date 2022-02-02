@@ -1,3 +1,3 @@
 # Laurent Cloutier
 
-Je suis étudiant a Montmorency et jime le hockey sur glace.
+Je suis étudiant a Montmorency et j'aime le hockey sur glace.
