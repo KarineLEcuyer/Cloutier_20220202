@@ -1,1 +1,3 @@
-# Voici le dossier qui contient mes photos
+# Voici mon dossier d'images
+
+Photo de profil
