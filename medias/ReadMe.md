@@ -2,4 +2,4 @@
 
 Photo de profil
 
-![photo](medias/IMG_2386.JPG)
+![photo](IMG_2386.JPG)
