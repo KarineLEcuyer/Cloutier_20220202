@@ -1,0 +1,4 @@
+ - les photographies
+ - les croquis
+ - les notes prises
+ - (tout autre élément utile)
